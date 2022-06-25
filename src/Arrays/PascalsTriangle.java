@@ -1,4 +1,4 @@
-/*
+package Arrays;/*
 Example 1:
 
 Input: numRows = 5
